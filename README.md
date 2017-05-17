@@ -21,7 +21,8 @@ Expiration can be a Date object, timestamp, or date string.
 ***Test it out in your browser:***
 
 ```
- <script>
+<script type="text/javascript" src="simple-cookie.min.js"></script>
+<script>
     simplecookie.set('a', 'b');
 
     console.log(document.cookie); // "a=b"
