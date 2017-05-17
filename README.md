@@ -18,7 +18,7 @@ Expiration can be a Date object, timestamp, or date string.
 
 
 
-#Usage
+# Usage
 
 ```
 <script type="text/javascript" src="simple-cookie.min.js"></script>
